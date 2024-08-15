@@ -35,4 +35,5 @@ Las contribuciones son bienvenidas. Siéntete libre de abrir un *pull request* p
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-![image](https://github.com/user-attachments/assets/050e2d6c-0e30-402c-ada2-756813cfda29)
+![image](https://github.com/user-attachments/assets/6be51418-63c2-425c-8104-b8a0e8274b20)
+
